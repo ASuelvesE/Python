@@ -1,0 +1,20 @@
+<moviles>
+    <movil id="1" modelo="S20" precio="909" SO="android">
+        <fabricante nombre="Samsung" pais="Corea del Sur" />
+    </movil>
+    <movil id="2" modelo="Mi 10" precio="530" SO="android">
+        <fabricante nombre="Xiaomi" pais="China" />
+    </movil>
+    <movil id="3" modelo="X2 Pro" precio="440" SO="android">
+        <fabricante nombre="Realme" pais="China" />
+    </movil>
+    <movil id="4" modelo="Note 8 Pro" precio="249" SO="android">
+        <fabricante nombre="Redmi" pais="China" />
+    </movil>
+    <movil id="5" modelo="iPhone 11" precio="809" SO="iOS">
+        <fabricante nombre="Apple" pais="Estados Unidos" />
+    </movil>
+    <movil id="6" modelo="P30" precio="469" SO="android">
+        <fabricante nombre="Huawei" pais="China" />
+    </movil>
+</moviles>
